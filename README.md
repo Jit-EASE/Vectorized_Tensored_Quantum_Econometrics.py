@@ -1,1 +1,1 @@
-# Vectorized_Tensored_Quantum_Ecoonometrics.py
+# Vectorized_Tensored_Quantum_Econometrics
